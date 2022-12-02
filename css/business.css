@@ -1,0 +1,23 @@
+/* =================BUSINESS CSS================ */
+.vision-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 10rem;
+}
+
+.vision-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.vision-img {
+    width: 15rem;
+    height: 15rem;
+    margin-bottom: 1.5rem;
+}
+
+.vision-img img {
+    height: 100%;
+}

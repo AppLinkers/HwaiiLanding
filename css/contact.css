@@ -1,0 +1,23 @@
+/* =================CONTACT CSS================ */
+iframe {
+    margin-top: 3rem;
+}
+
+.location-info {
+    margin-top: 6rem;
+}
+
+.location-content {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.location-content i {
+    font-size: 2rem;
+    margin-right: 1.5rem;
+}
+
+.location-content h4 {
+    font-weight: 400;
+}
